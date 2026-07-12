@@ -1,13 +1,3 @@
-/**
-Palette: https://scrimba.com/links/hometown-palette
-RED: #E63946
-LIGHT: #F1FAEE
-AQUA: #A8DADC
-LIGHT BLUE: #457B9D
-DARK BLUE: #1D3557
-
-*/
-
 body {
     margin: 0;
     text-align: center;
@@ -17,6 +7,13 @@ body {
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.spinnaker-regular {
+  font-family: "Spinnaker", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 img {
     width: 100px;
@@ -36,14 +33,14 @@ img {
 }
 
 #activities-section {
-    background: #F1FAEE;
+    background: #ccd5ae;
     width: 720px;
     height: 378px;
     color: #1D3557;
 }
 
 #guide-section {
-    background: #FFFFFF;
+    background: #e9edc9;
     width: 720px;
     height: 394px;
     color: #1D3557;
@@ -77,6 +74,7 @@ img {
 
 #activities-section-title {
     margin: 39px auto 54px auto;
+    font-weight:900;
 }
 
 #sarasbaug-section {
@@ -107,9 +105,13 @@ img {
     height: 248.67px;
     margin: 23px 5px 22.33px 13px;
     padding: 0;
-    background-image: url("images/ashish.jpg");
+    background-image: url("images/tour-guide.jpeg");
     background-size: 156px 250px;
     border-radius: 10px;
+}
+
+#guide-section-img:hover{
+    background-image: url("images/ashish.jpg");
 }
 
 #guide-section-title {
@@ -120,9 +122,24 @@ img {
     margin: 0 11px 26px 7px;
     font-style: italic;
     font-size: small;
+    text-shadow: 2px -2px #e9edc9;
 }
 
-.footer {
-    margin-top: 70px;
+.section-sub-title{
+    text-shadow: 0 0 1px #A8DADC;
+}
+
+span{
+    border-bottom: 1px dotted #1D3557;
+    font-style: italic;
+}
+
+#footer-section {
+    /* background: #faedcd; */
+    background: #FFFFFF;
+    padding-left: 231px;
+    padding-right: 231px;
+    padding-top: 70px;
     padding-bottom: 40px;
+    font-size: small;
 }
