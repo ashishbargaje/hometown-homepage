@@ -143,3 +143,9 @@ span{
     padding-bottom: 40px;
     font-size: small;
 }
+
+#footer-pune{
+    border-bottom: none;
+    color: red;
+    font-style: normal;
+}
