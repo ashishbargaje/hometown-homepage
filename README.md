@@ -1,3 +1,7 @@
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 # 🏡 Hometown Homepage – Pune
 
 A responsive tourism-inspired landing page showcasing my hometown, **Pune**, built using **HTML5** and **CSS3** as part of a solo project. The project was based on a Figma design challenge and customized with my own content, visuals, and branding.
