@@ -10,6 +10,10 @@ A responsive tourism-inspired landing page showcasing my hometown, **Pune**, bui
 
 🔗 https://avbargajetech-hometown-homepage.netlify.app/
 
+## 📸 Preview
+
+![Hometown Homepage Preview](./images/demo.png)
+
 ## ✨ Features
 
 - Clean and modern landing page design
